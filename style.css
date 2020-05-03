@@ -1,0 +1,65 @@
+body {
+    background-color: #333333;
+    
+}
+
+.middle {
+    text-align: center;
+}
+
+.title {
+    text-weight:bold;
+    color:white;
+}
+
+.lead {
+    color: white;
+}
+
+.nav-masthead {
+    position: relative;
+    margin-left: auto;
+    color: rgba(255, 255, 255, .5);
+
+}
+
+.main {
+    width: 640px;
+}
+
+.bottom {
+    text-align: center;
+    margin-top: 250px;
+}
+
+.inner {
+    margin-bottom: 200px;
+}
+
+.row {
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.mastfoot.mt-auto {
+    text-align: center;
+    color: rgba(255, 255, 255, .5);
+}
+
+a {
+    color:white;
+}
+
+.inner {
+}
+
+.btn-lg {
+    background-color: #fff;
+    color: #333;
+    font-weight: bold;
+    border-color: white;
+}
+
+.active {
+    color:blue;
+}
